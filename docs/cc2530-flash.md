@@ -12,7 +12,7 @@ git clone https://github.com/dashesy/cc-tool.git
 make
 ```
 
-Flash
+Flashing
 
 ```
 sudo ./cc-tool -e -w <hex path>
@@ -29,3 +29,7 @@ Pins on cable is mirrored!
 ![Pins for cable](cable-pins.jpeg)
 
 ![Example](pins-example.jpeg)
+
+## Links
+
+[ZigBee2MQTT flashing](https://www.zigbee2mqtt.io/getting_started/flashing_the_cc2531.html)
